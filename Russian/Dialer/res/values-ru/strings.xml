@@ -723,5 +723,8 @@
     <string name="other_settings_title">Другие настройки</string>
     <string name="call_settings_label">Вызовы</string>
     <string name="phone_account_settings_label">Аккаунты для звонков</string>
-    <string name="dialerDialpadHintText">Наберите номер</string>
+    <string name="callrecorder_settings_label">Запись звонков</string>
+    <string name="callrecorder_enabled">Разрешить запись звонков</string>
+    <string name="auto_callrecorder_incoming_enabled">Авто запись для входящих звонков</string>
+    <string name="auto_callrecorder_outgoing_enabled">Авто запись для исходящих звонков</string>
 </resources>
