@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="normal">Стандартный</string>
+    <string name="classical">Классика</string>
+    <string name="dance">Танцевальная музыка</string>
+    <string name="flat">Плоско</string>
+    <string name="folk">Фолк</string>
+    <string name="heavy_metal">Хэви-метал</string>
+    <string name="hip_hop">Хип-хоп</string>
+    <string name="jazz">Джаз</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="ci_extreme">Электронная музыка</string>
+    <string name="small_speakers">Маленькие динамики</string>
+    <string name="user">Пользовательские настр.</string>
+    <string name="none">Нет</string>
+    <string name="smallroom">Маленькая комната</string>
+    <string name="mediumroom">Средняя комната</string>
+    <string name="largeroom">Большая комната</string>
+    <string name="mediumhall">Средний зал</string>
+    <string name="largehall">Большой зал</string>
+    <string name="plate">Пластинка</string>
+    <string name="power_on_prompt">Нажмите выключатель в правом верхнем углу.</string>
+    <string name="effect_unavalable_for_speaker">Эффект недоступен для динамиков.</string>
+    <string name="device_headset">Наушники</string>
+    <string name="device_speaker">Динамик</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_wireless">Беспров. устр.</string>
+    <string name="reverb">Реверберация</string>
+    <string name="eq_preset">Предуст. эквалайзера</string>
+    <string name="app_name">AudioFX</string>
+    <string name="no_effects">Эффекты недоступны.</string>
+    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="eq_dialog_title">AudioFX</string>
+    <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+    <string name="bass_boost_strength">Усиление нижних частот</string>
+    <string name="virtualizer_strength">Объемный звук</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+    <string name="pr_dialog_title">Шаблон ревербератора</string>
+    <string name="setup">Настройка</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
+</resources>

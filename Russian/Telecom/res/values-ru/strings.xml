@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blacklist_title">Чёрный список</string>
+    <string name="blacklist_summary_disabled">Отключен</string>
+    <string name="blacklist_summary">Вы не будете получать входящие вызовы или сообщения от телефонных номеров из черного списка</string>
+    <string name="blacklist_call_notification">Вызов от %s отклонён</string>
+    <string name="blacklist_call_notification_private_number">Вызов со скрытого номера отклонён</string>
+    <string name="blacklist_call_notification_unknown_number">Вызов с неизвестного номера (%s) отклонён</string>
+    <string name="blacklist_call_notification_multiple">Отклонено вызовов: %d</string>
+    <string name="blacklist_message_notification">Сообщение от %s заблокировано</string>
+    <string name="blacklist_message_notification_private_number">Сообщение со скрытого номера заблокировано</string>
+    <string name="blacklist_message_notification_unknown_number">Сообщение от неизвестного номера %s заблокировано</string>
+    <string name="blacklist_message_notification_multiple">Заблокировано сообщений: %d</string>
+    <string name="blacklist_notification_list_private">Скрытый номер</string>
+    <string name="unblock_number">Разблокировать</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Отключите режим TTY для выполнения видеозвонков.</string>
+    <string name="telecommAppLabel">Телефон</string>
+    <string name="unknown">Неизвестный абонент</string>
+    <string name="notification_missedCallTitle">Пропущенный вызов</string>
+    <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
+    <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
+    <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
+    <string name="notification_missedCall_call_back">Позвонить</string>
+    <string name="notification_missedCall_message">Написать</string>
+    <string name="accessibility_call_muted">Звук выключен.</string>
+    <string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
+    <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
+    <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню.</string>
+    <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
+    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
+    <string name="respond_via_sms_setting_title">Быстрые ответы</string>
+    <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
+    <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
+    <string name="outgoing_call_not_allowed">Владелец устройства разрешил только экстренные вызовы</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Недействительный номер.</string>
+    <string name="duplicate_video_call_not_allowed">Невозможно позвонить в данный момент</string>
+    <string name="no_vm_number">Не указан номер голосовой почты</string>
+    <string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты.</string>
+    <string name="add_vm_number_str">Добавить номер</string>
+</resources>

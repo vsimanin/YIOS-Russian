@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="export_cancelled">
+        <item quantity="other">Экспорт отменён, экспортировано %d элементов</item>
+        <item quantity="one">Экспорт отменён, экспортирован %d элемент</item>
+        <item quantity="few">Экспорт отменён, экспортировано %d элемента</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено контактов: %d</item>
+        <item quantity="one">Найдено контактов: 1</item>
+    </plurals>
+    <plurals name="remaining_delay_time">
+        <item quantity="other">"Отправка через %1$d секунд...
+Нажмите для отмены."</item>
+        <item quantity="one">"Отправка через %1$d секунду...
+Нажмите для отмены."</item>
+        <item quantity="few">"Отправка через %1$d секунды...
+Нажмите для отмены."</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Будет удалено %1$s сообщений.</item>
+        <item quantity="one">Будет удалено %1$s сообщение.</item>
+        <item quantity="few">Будет удалено %1$s сообщения.</item>
+    </plurals>
+    <plurals name="confirm_mark_read_conversation">
+        <item quantity="other">%1$s цепочек будут помечены как прочитанные.</item>
+        <item quantity="one">Цепочка будет помечена как прочитанная.</item>
+        <item quantity="few">%1$s цепочки будут помечены как прочитанные.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+        <item quantity="one">Цепочка будет удалена.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Еще сообщений: %1$s</item>
+        <item quantity="one">Еще сообщений: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+    </plurals>
+</resources>

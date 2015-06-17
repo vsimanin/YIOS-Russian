@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Экранов в обзоре: %d.</item>
+        <item quantity="one">В обзоре 1 экран.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Введите PIN-код. У вас осталось %d попыток.</item>
+        <item quantity="one">Введите PIN-код. У вас осталась %d попытка перед тем, как вам придется обратиться к оператору для разблокировки.</item>
+        <item quantity="few">Введите PIN-код. У вас осталось %d попытки.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-карта заблокирована. Введите PUK-код для продолжения. У вас есть %d попыток перед тем, как SIM-карта будет заблокирована навсегда. Обратитесь к своему оператору для получения дополнительных сведений.</item>
+        <item quantity="one">SIM-карта заблокирована. Введите PUK-код для продолжения. У вас есть %d попытка перед тем, как SIM-карта будет заблокирована навсегда. Обратитесь к своему оператору для получения дополнительных сведений.</item>
+        <item quantity="few">SIM-карта заблокирована. Введите PUK-код для продолжения. У вас есть %d попытки перед тем, как SIM-карта будет заблокирована навсегда. Обратитесь к своему оператору для получения дополнительных сведений.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
+        <item quantity="one">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
+    </plurals>
+</resources>

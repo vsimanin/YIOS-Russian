@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nartists">
+        <item quantity="other">%d исполнителей</item>
+        <item quantity="one">%d исполнитель</item>
+        <item quantity="few">%d исполнителя</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+    </plurals>
+    <plurals name="Ngenres">
+        <item quantity="other">%d жанров</item>
+        <item quantity="one">%d жанр</item>
+        <item quantity="few">%d жанра</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%dч</item>
+        <item quantity="one">%dч</item>
+        <item quantity="few">%dч</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%dм</item>
+        <item quantity="one">%dм</item>
+        <item quantity="few">%dм</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d треков добавлены в плейлист.</item>
+        <item quantity="one">%d трек добавлен в плейлист.</item>
+        <item quantity="few">%d трека добавлены в плейлист.</item>
+    </plurals>
+    <plurals name="NNNtracksfromplaylist">
+        <item quantity="other">%d треков удалены из плейлиста.</item>
+        <item quantity="one">%d трек удалён из плейлиста.</item>
+        <item quantity="few">%d трека удалены из плейлиста.</item>
+    </plurals>
+    <plurals name="NNNtrackstoqueue">
+        <item quantity="other">%d треков добавлены в очередь.</item>
+        <item quantity="one">%d трек добавлен в очередь.</item>
+        <item quantity="few">%d трека добавлены в очередь.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavorites">
+        <item quantity="other">%d треков добавлены в избранное.</item>
+        <item quantity="one">%d трек добавлен в избранное.</item>
+        <item quantity="few">%d трека добавлены в избранное.</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d треков удалены.</item>
+        <item quantity="one">%d трек удален.</item>
+        <item quantity="few">%d трека удалены.</item>
+    </plurals>
+</resources>
